@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @atifkhan77
+-   Working in python(Numpy,Pandas)
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
