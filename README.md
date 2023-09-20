@@ -19,8 +19,8 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
