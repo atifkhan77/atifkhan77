@@ -21,7 +21,8 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atifkhan77)](https://git.io/streak-stats)
+
+
 
 
 
