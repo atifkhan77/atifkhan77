@@ -21,6 +21,7 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=atifkhan77&theme=onedark)
@@ -31,4 +32,3 @@
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=atifkhan77&icon=7&color=1)](https://visitcount.itsvg.in)
