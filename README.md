@@ -20,14 +20,16 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=atifkhan77&theme=onedark)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan77&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
