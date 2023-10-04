@@ -23,7 +23,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=atifkhan77&theme=onedark)
