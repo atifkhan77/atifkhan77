@@ -22,13 +22,17 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifkhan77&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=atifkhan77&theme=onedark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=atifkhan77&theme=dark&hide_border=true)<br/>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan77&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![trophy](https://github-profile-trophy.vercel.app/?username=atifkhan77&theme=onedark)
+
+
 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=atifkhan77&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 
