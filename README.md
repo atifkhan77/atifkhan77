@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Selenium**
 
 - 🌱 I’m currently learning **Python**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atifm1190@gmail.com**
 
-- ⚡ Fun fact **Tea lover**
+- ⚡ Fun fact **facts are not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
